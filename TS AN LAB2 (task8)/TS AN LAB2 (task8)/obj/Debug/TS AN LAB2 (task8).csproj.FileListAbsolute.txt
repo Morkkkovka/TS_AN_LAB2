@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\TS AN LAB2 (task8)\TS AN LAB2 (task8)\bin\Debug\TS AN LAB2 (task8).exe.config
+C:\Users\User\source\repos\TS AN LAB2 (task8)\TS AN LAB2 (task8)\bin\Debug\TS AN LAB2 (task8).exe
+C:\Users\User\source\repos\TS AN LAB2 (task8)\TS AN LAB2 (task8)\bin\Debug\TS AN LAB2 (task8).pdb
+C:\Users\User\source\repos\TS AN LAB2 (task8)\TS AN LAB2 (task8)\obj\Debug\TS AN LAB2 (task8).csprojAssemblyReference.cache
+C:\Users\User\source\repos\TS AN LAB2 (task8)\TS AN LAB2 (task8)\obj\Debug\TS AN LAB2 (task8).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TS AN LAB2 (task8)\TS AN LAB2 (task8)\obj\Debug\TS AN LAB2 (task8).exe
+C:\Users\User\source\repos\TS AN LAB2 (task8)\TS AN LAB2 (task8)\obj\Debug\TS AN LAB2 (task8).pdb
